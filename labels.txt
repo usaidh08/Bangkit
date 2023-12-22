@@ -1,0 +1,7 @@
+donuts
+french_fries
+hamburger
+hot_dog
+pizza
+spaghetti
+takoyaki
